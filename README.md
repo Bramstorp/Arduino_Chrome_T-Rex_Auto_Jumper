@@ -6,7 +6,6 @@ Write down the value found in the Serial Monitor
 
 insert your value in the "INSERT VALUE" part in the ChromeDinosaur.ino file to make it work 
 
-
 --Equipment--
 
 1 x Arduino Uno
