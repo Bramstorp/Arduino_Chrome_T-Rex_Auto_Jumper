@@ -15,7 +15,7 @@ void loop() {
   Sensor_VALUE = (analogRead(Sensor_PIN)); // The value of the sensor pin
   
   // check if the there come a cactus
-  if (Sensor_VALUE < 130) // insert the value of the white area from the sensor (my was around 126-130)
+  if (Sensor_VALUE < "INSERT VALUE") // insert the value of the white area from the sensor (my was around 126-130)
   { 
     // servo location will move if theres is a cactus 
     Servo_VAL = 100;             
